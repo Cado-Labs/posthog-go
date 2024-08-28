@@ -1,4 +1,4 @@
-module github.com/cado-labs/posthog-go
+module github.com/Cado-Labs/posthog-go
 
 go 1.18
 

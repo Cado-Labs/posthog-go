@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/cado-labs/posthog-go"
+	"github.com/Cado-Labs/posthog-go"
 	"log"
 	"os"
 
