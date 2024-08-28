@@ -1,74 +1,74 @@
 ## 1.2.20
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.2.19...v1.2.20)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v1.2.19...v1.2.20)
 
 ## 1.2.19
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.2.18...v1.2.19)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v1.2.18...v1.2.19)
 
 ## 1.2.18
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.2.17...v1.2.18)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v1.2.17...v1.2.18)
 
 ## 1.2.17
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.2.16...v1.2.17)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v1.2.16...v1.2.17)
 
 ## 1.2.16
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.2.15...v1.2.16)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v1.2.15...v1.2.16)
 
 ## 1.2.15
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.2.14...v1.2.15)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v1.2.14...v1.2.15)
 
 ## 1.2.14
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.2.13...v1.2.14)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v1.2.13...v1.2.14)
 
 ## 1.2.13
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.2.12...v1.2.13)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v1.2.12...v1.2.13)
 
 ## 1.2.12
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.12)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.12)
 
 ## 1.2.11
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.11)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.11)
 
 ## 1.2.10
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.10)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.10)
 
 ## 1.2.9
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.9)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.9)
 
 ## 1.2.8
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.8)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.8)
 
 ## 1.2.7
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.7)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.7)
 
 ## 1.2.6
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.6)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.6)
 
 ## 1.2.5
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.5)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.5)
 
 ## 1.2.4
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.4)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.4)
 
 ## 1.2.3
 
-* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v...v1.2.3)
+* [Full Changelog](https://github.com/cado-labs/posthog-go/compare/v...v1.2.3)
 
 # Changelog
 

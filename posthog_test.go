@@ -1711,7 +1711,7 @@ func TestCaptureSendFlags(t *testing.T) {
 	defer client.Close()
 
 	// Without this call client.Close hangs forever
-	// Ref: https://github.com/PostHog/posthog-go/issues/28
+	// Ref: https://github.com/cado-labs/posthog-go/issues/28
 	client.IsFeatureEnabled(
 		FeatureFlagPayload{
 			Key:        "simpleFlag",

@@ -3,8 +3,6 @@ package main
 import (
 	"fmt"
 	"time"
-
-	"github.com/posthog/posthog-go"
 )
 
 func TestIsFeatureEnabled() {
